@@ -24,7 +24,7 @@
 ### [Курсовая работа](https://github.com/LoyMeding/My-repository/tree/main/Course%20work)
 
 Продолжение курсовой работы. Разработка пользовательских узлов инструмента Node-RED, позволяющих выстраивать композиции из блоков нейросетей с целью проведения экспериментов и последовательного применения моделей с целью декампозиции задач. Применение данных узлов к задачам семантической сегментации и классификации изображения, последовательное решение задач классификации и сегментации.
-[](https://github.com/LoyMeding/My-repository/blob/main/Course%20work/Node-red-screenshot.png)
+![](https://github.com/LoyMeding/My-repository/blob/main/Course%20work/Node-red-screenshot.png)
 
 ### [Название проекта 2](ссылка на проект)
 
