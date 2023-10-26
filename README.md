@@ -25,6 +25,23 @@
 + Matplotlib
 + Seaborn
 
+## Курсы
+
+### Mini-курс по MLOps. Промышленный ML.
+
+Разбор жизненного цикла ML-модели в теории и на практике:
+-	Основные паттерны ML архитектур
+-	Как перейти от Jupyter Notebook к промышленному коду
+-	Тесты для ML моделей
+-	Воспроизводимость в MLFlow
+-	Развертывание REST сервиса при помощи FAST API
+-	Airflow для обучения ML модели при помощи пайплайна задач
+-	Docker Compose
+-	Мониторинг при помощи Grafana -Cl в GitHub Actions
+
+![](https://github.com/LoyMeding/My-repository/blob/main/Сертификат.png)
+
+
 ## Проекты
 
 ### [Курсовая работа 2022-2023](https://github.com/LoyMeding/My-repository/tree/main/Course%20work)
