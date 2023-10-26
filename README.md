@@ -17,7 +17,7 @@
 + Git, GitHub
 + SQL
 + Docker
-+ API
++ Fast API
 + MySQL
 + Pytorch
 + Sklearn
