@@ -1,4 +1,4 @@
-# Шарнин Никита Сергеевич
+# Шарнин Никита
 
 
 ## Обо мне
@@ -16,8 +16,7 @@
 + Google colab
 + Git, GitHub
 + SQL
-+ Docker
-+ Fast API
++ Docker, Docker-compose
 + MySQL
 + Pytorch
 + Sklearn
