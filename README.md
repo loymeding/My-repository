@@ -15,10 +15,12 @@
 + Jupiter Notebook
 + Google colab
 + Git, GitHub
-+ SQL
++ MySQL
 + Docker, Docker-compose
++ Spark
 + MySQL
 + Pytorch
++ Numpy
 + Sklearn
 + Pandas
 + Matplotlib
@@ -72,6 +74,6 @@
 3. В качестве брокеров сообщений допустимо использовать Apache Kafka и Redis
 4. Добиться производительности не менее 30 fps на доступных ресурсах, с разрешением 1280х720
 
-![](https://github.com/LoyMeding/My-repository/blob/main/Афиша.png)
+![](https://github.com/LoyMeding/My-repository/blob/main/Афиша.jpg)
 
 
