@@ -38,7 +38,7 @@
 -	Docker Compose
 -	Мониторинг при помощи Grafana -Cl в GitHub Actions
   
-![Ссылка на репозиторий курса](https://github.com/LoyMeding/ctr_project_mlops_course)
+[Ссылка на репозиторий курса](https://github.com/LoyMeding/ctr_project_mlops_course)
 
 ![](https://github.com/LoyMeding/My-repository/blob/main/Сертификат.png)
 
