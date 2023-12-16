@@ -67,7 +67,7 @@
 Целью проекта: изучение таких методов ансамблирования как: bagging, stacking, boosting. Решение задач классификации изображений с целью анализа их применимости в случае нейросетей.
 С применением ансамблирования решались задачи классификации на наборах данных: CIFAR10, CIFAR100, Animals10, Plant-Seedlings-Classification.
 
-### [Осенняя практика 2023](https://github.com/LoyMeding/My-repository/blob/main/Object_tracking.ipynb)
+### [Осенняя практика 2023](https://github.com/LoyMeding/My-repository/blob/main/Autumn_practice_object-tracking.ipynb)
 
 Целью проекта: изучениер детектора YOLOv8, а также осуществление трекинга объектов с помощью данного детектора и трекеров: ByteTrack, BoT-SORT, StrongSORT, OC-SORT.
 Для данной задачи с помощью инструмента-аннотатора CIVAT.ai был собпан и размечен собственный датасет, на котором была обучена YOLOv8. Затем применялись перечисленные выше трекеры и подсчитывались метрики. 
